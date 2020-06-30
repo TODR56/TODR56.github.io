@@ -1,1 +1,28 @@
-
+h1 {
+      font-family: MuseoModerno, cursive;
+    }
+    p {
+      font-family: MuseoModerno, cursive;
+    }
+    li { 
+      font-family: MuseoModerno, cursive;
+    }
+    .small-type {
+      width: 300px;
+      height: 150px;
+      border-style: inset;
+      border-width: 3px;
+      border-color: DimGray;
+    }
+    .background-color {
+      background-color: silver;
+    }
+    .youtube-border {
+      width: 560x;
+      height: 315px;
+      border-style: inset;
+      border-width: 3px;
+      border-color: DimGray;
+      {
+        head {
+          background-color: 
